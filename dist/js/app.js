@@ -4,7 +4,8 @@ var TWITTER_API_BASE = "http://circuslabs.net/proxies/twitter/";
 var app = new Vue({
   el: "#app",
   data: {
-    tweets: []
+    tweets: [],
+    hashtag: ''
   },
   methods: {
     getTweets: function getTweets() {
