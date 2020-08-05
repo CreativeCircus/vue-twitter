@@ -1,4 +1,4 @@
-const TWITTER_API_BASE = "http://circuslabs.net/proxies/twitter/";
+const TWITTER_API_BASE = "http://circuslabs.net/proxies/twitter/twitter-proxy.php";
 
 
 let app = new Vue({

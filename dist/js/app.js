@@ -1,6 +1,6 @@
 "use strict";
 
-var TWITTER_API_BASE = "http://circuslabs.net/proxies/twitter/";
+var TWITTER_API_BASE = "http://circuslabs.net/proxies/twitter/twitter-proxy.php";
 var app = new Vue({
   el: "#app",
   data: {
